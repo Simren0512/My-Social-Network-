@@ -9,7 +9,5 @@ Subsystem 2 : Social Network.
 
 Subsystem 3: Fitness Track and Healthy Eating. 
 
-My Subsystem  
-
-
+# My Subsystem  
 Social Network enables students to create their profile online and chat with each other. It aims to improve the communication and collaboration skills with their college students. It allows instructors and students to work together to share, discuss and deeply engage with learning.
